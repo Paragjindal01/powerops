@@ -11,7 +11,7 @@ Review rack demand and phase balance, then safely exercise the simulated outlet 
 
 ## Run independently
 
-Use Node.js 24 or later from the extracted package. npm installs React and Vite from their pinned registry dependencies and the simulator from its included archive.
+Use Node.js 24 or later from this repository root. npm installs React and Vite from their pinned registry dependencies and the simulator from its included archive.
 
 ```sh
 npm ci
@@ -36,4 +36,6 @@ flowchart LR
   D --> O[Views and local exports]
 ```
 
-The browser uses synthetic demonstration data. Optional local adapters are documented in the case study. The archive retains its source, tests, installation lock, and GitHub Actions configuration. This source export can be kept in its own repository. A dedicated remote and a redistribution license have not been declared.
+The browser uses synthetic demonstration data. Optional local adapters are documented in the case study. The archive retains its source, tests, installation lock, and GitHub Actions configuration. A redistribution license has not been declared.
+
+[Release notes and verified source provenance](docs/release-provenance.md)

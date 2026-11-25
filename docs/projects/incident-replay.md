@@ -1,5 +1,7 @@
 # InfraPilot AI incident replay
 
+> This case study documents the integrated portfolio build. Use the [standalone README](../../README.md#run-independently) for this repository’s entry point and test commands.
+
 [Open the recording panel](https://paragjindal.com/lab/infrapilot-ai#incident-replay) · [InfraPilot AI case study](infrapilot-ai.md)
 
 Start a recording, change the simulator scenario or advance its clock, and run an infrastructure query. A recording captures the full version 2 telemetry checkpoint, followed by the structured tool output and recommendations. Prepare and review a simulated handoff to capture its proposal and decision. PowerOps actions on the linked outlet carry the same handoff ID and include the observations before and after confirmation. Completed reboots are recorded when observed in the PowerOps tab.

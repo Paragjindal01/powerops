@@ -1,6 +1,8 @@
 # PowerOps
 
-[Conceptual cover artwork](../artwork/powerops.webp)
+> This case study documents the integrated portfolio build. Use the [standalone README](../../README.md#run-independently) for this repository’s entry point and test commands.
+
+[Conceptual cover artwork](../artwork.webp)
 
 PowerOps is a portfolio MVP for inspecting rack power and controlling simulated outlets. An outlet map connects equipment to labeled branch phases and ratings. Reports show instantaneous watts, kilowatts and modeled energy.
 
